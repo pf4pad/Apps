@@ -1,0 +1,20 @@
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #48484A;
+}
+
+.logo {
+  width: 80px;
+}
+
+.nav {}
+
+.nav__list {}
+
+.nav__item {}
+
+.nav__link {}
